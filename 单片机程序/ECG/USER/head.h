@@ -3,7 +3,9 @@
 
 #include "sys.h"
 #include "delay.h"
-#include "usart.h"
+#include "usart2.h"
+#include "adc.h"
+#include "led.h"
 
 //主体函数区
 
